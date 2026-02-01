@@ -1,0 +1,8 @@
+{
+  "name": "AIS Token",
+  "symbol": "AIS",
+  "decimals": 18,
+  "description": "AIS is a utility token used for AI service payments on Arbitrum One.",
+  "website": "https://your-website.com",
+  "logo": "https://raw.githubusercontent.com/awyszynski1980-aistock/ais-token-assets/main/logo.png"
+}
