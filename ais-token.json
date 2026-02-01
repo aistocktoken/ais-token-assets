@@ -1,0 +1,19 @@
+{
+  "name": "AIS Token List",
+  "timestamp": "2025-01-01T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x1eD25D5f91EfDbC715b4666BfCa19d9573A1ED69",
+      "name": "AIS Token",
+      "symbol": "AIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/awyszynski1980-aistock/ais-token-assets/main/logo.png"
+    }
+  ]
+}
