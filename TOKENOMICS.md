@@ -45,7 +45,7 @@ AIS was deployed with the full supply minted to the deployer wallet. There were 
 
 ### Token Generation Event (TGE)
 
-- Date: Refer to contract creation timestamp on Arbiscan  
+- Date: 01.02.2026 
 - Release: 100% at TGE  
 - Cliff: None  
 - Vesting: None  
