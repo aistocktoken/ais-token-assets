@@ -81,7 +81,7 @@ Supply data is fully verifiable on Arbiscan.
   https://arbiscan.io/token/0x1eD25D5f91EfDbC715b4666BfCa19d9573A1ED69#balances
 
 - Total Supply API (Arbiscan):  
-  https://api.arbiscan.io/api?module=stats&action=tokensupply&contractaddress=0x1eD25D5f91EfDbC715b4666BfCa19d9573A1ED69
+  Arbiscan no longer provides a public supply API without an API key. AIS has a fixed supply of 1,000,000,000 tokens, which can be verified directly on Arbiscan.
 
 AIS supply and distribution can be independently verified through the Arbiscan explorer and API.
 
